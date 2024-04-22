@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"61472425eab64ddd","type":"text","text":"","x":-420,"y":-260,"width":814,"height":534,"color":"6"},
+		{"id":"23b303d3cf3ec336","type":"text","text":"","x":140,"y":-113,"width":220,"height":193,"color":"3"},
+		{"id":"49ee0897c275a944","type":"text","text":"","x":-380,"y":-113,"width":220,"height":193,"color":"2"},
+		{"id":"78ba87c58997bbab","x":460,"y":-260,"width":250,"height":60,"type":"text","text":"# Índice"},
+		{"id":"70d6c692c050fb3e","x":460,"y":-113,"width":250,"height":60,"color":"3","type":"text","text":"Jogador"},
+		{"id":"f21809b347568f59","x":460,"y":-53,"width":250,"height":60,"color":"2","type":"text","text":"Máquina"},
+		{"id":"5b4769e746849826","x":460,"y":-173,"width":250,"height":60,"color":"6","type":"text","text":"Background"}
+	],
+	"edges":[]
+}

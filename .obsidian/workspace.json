@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "c407fc14f5169950",
+    "type": "split",
+    "children": [
+      {
+        "id": "718e4dfabec29eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae7f32df411e7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vestibulares/Biologia/Método Científico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6dbe9b6e48eafa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b39fb54ddba2783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a544cec54e66a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "826bb020e8651e4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#biopsico  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6636325ad92aba5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c26f42ed48655fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e900f37f39b5a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c25fd1a2961de28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vestibulares/Biologia/Método Científico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97691c39768303d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vestibulares/Biologia/Método Científico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f7f280aa420d77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "832bf779053eb188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vestibulares/Biologia/Método Científico.md"
+              }
+            }
+          },
+          {
+            "id": "1eb1aeccd64ce4c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eae7f32df411e7b8",
+  "lastOpenFiles": [
+    "Vestibulares/Biologia/Introdução a Biologia.md",
+    "Vestibulares/Biologia/Método Científico.md",
+    "Attachments/Metodo_Cientifico1.jpg",
+    "Attachments/Metodo_Cientifico1.webp",
+    "Pasted image 20240125092636.png",
+    "Attachments/niveis-organizacao-seres-vivos.png",
+    "areas-bio.png",
+    "Attachments/areas-bio.png",
+    "Attachments",
+    "Vestibulares/Biologia/areas-bio.png",
+    "Vestibulares/Biologia/videoframe_1215380.png",
+    "CursoEmVideo/BancoDeDados/Tipos-Primitivos.canvas",
+    "CursoEmVideo/BancoDeDados/n02.md",
+    "CursoEmVideo/BancoDeDados/n01.md",
+    "images/Captura da Web_3-1-2024_105149_.jpeg",
+    "2024-04-22.md",
+    "CursoEmVideo/PYTHON/Operações Aritméticas.md",
+    "Vestibulares/Biologia",
+    "Sem título.md",
+    "Escola/Redes/Tabela-binario-decimal.md",
+    "Escola/Redes/Redes.md",
+    "Escola/Sociologia/Sociologia.md",
+    "Escola/Sociologia/Seminário Formas de Violência.md",
+    "Escola/Sociologia/Jogo Movimento Social.canvas",
+    "Escola/Química/Química.md",
+    "Escola/Química/Funções Oxigenadas.md",
+    "Escola/Artes/Artes.md",
+    "Aprenda +/PSW.md",
+    "Escola/Redes",
+    "Escola/Ambiente Escolar.md",
+    "Escola/Internet e Web/JS portifólio/JS-Operadores.md",
+    "CursoEmVideo/BancoDeDados/History.md",
+    "Projetos de jogos/Jokenpo GML.canvas",
+    "CursoEmVideo/BancoDeDados",
+    "CursoEmVideo",
+    "Projetos de jogos/Joken_codePY.md",
+    "Projetos de jogos/Sem título.canvas",
+    "Projetos de jogos/UI_jokenpoGML.canvas",
+    "Projetos de jogos/UI_jokenpoGML.md",
+    "dale.md",
+    "Projetos de jogos",
+    "Anatomia do Tipo.md",
+    "images",
+    "CursoEmVideo/PYTHON",
+    "desktop.ini",
+    "Escola/Internet e Web/JS portifólio/JS-Data-Types.md",
+    "Aprenda +/Aprenda +.md",
+    "Filosofia.md",
+    "~syncthing~Filosofia.md.tmp",
+    "889634.png",
+    "Escola/Sociologia/Jogo Movimento Social.sync-conflict-20231025-004440-ONYSPPP.canvas",
+    "Canva.canvas"
+  ]
+}

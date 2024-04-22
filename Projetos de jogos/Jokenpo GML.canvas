@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"af6c77b31ce928d8","type":"text","text":"**Pedra**","x":63,"y":-24,"width":117,"height":60,"color":"#f99595"},
+		{"id":"264d61ab4c90d0d9","type":"text","text":"**Papel**","x":200,"y":-24,"width":106,"height":60,"color":"#f99595"},
+		{"id":"a228b9bd0d13c815","type":"text","text":"**Tesoura**","x":326,"y":-24,"width":140,"height":60,"color":"#f99595"},
+		{"id":"3e811bc3282a1ad6","type":"text","text":"# JOKENPO","x":149,"y":-143,"width":209,"height":50,"color":"1"},
+		{"id":"878a394d472f4b42","type":"text","text":"## O que fazer primeiro? \n- [ ] **Criar sprites**\n\t- [ ] Mãos representando as jogadas (Pixelart)\n\t- [ ] [[UI_jokenpoGML.canvas|UI]]\n- [ ] **Criar objetos**\n\t- [ ] player\n\t- [ ] maquina\n\t- [ ] cada mão?\n- [ ] [[Joken_codePY|Programar a lógica/condições do jogo]]\n- [ ] **Fundo Quadriculado**\n\t- [ ] Código de cor e movimento\n- [ ] **SFX e música** ","x":540,"y":-143,"width":440,"height":503,"color":"4"},
+		{"id":"a11b76fa6ddda5af","x":66,"y":100,"width":400,"height":225,"type":"file","file":"Pasted image 20240125092636.png"}
+	],
+	"edges":[
+		{"id":"8f510416e4dea6a8","fromNode":"3e811bc3282a1ad6","fromSide":"bottom","toNode":"264d61ab4c90d0d9","toSide":"top"},
+		{"id":"9d63c478324dbf01","fromNode":"3e811bc3282a1ad6","fromSide":"bottom","toNode":"af6c77b31ce928d8","toSide":"top"},
+		{"id":"fee4b9a8ab6f425f","fromNode":"3e811bc3282a1ad6","fromSide":"bottom","toNode":"a228b9bd0d13c815","toSide":"top"}
+	]
+}

@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "5452d395fab4b0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef158940b602597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f7d2cec51d4a9eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "06fea22e0fef2ad1"
+          },
+          {
+            "id": "51db01f878c837f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vestibulares/Biologia/Introdução a Biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5fcc45198732554e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030d7de89a26dd2c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CursoEmVideo/BancoDeDados/n01.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5680099981628434,
+                  "close": false
+                }
+              }
+            },
+            "group": "06fea22e0fef2ad1"
+          }
+        ]
+      },
+      {
+        "id": "25a805d1d6ae0c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8123f4d0fdc5543a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CursoEmVideo/BancoDeDados/n01.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "06fea22e0fef2ad1"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae9e5e1183158bf8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b9362722b65e9f2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ddd38f10cd616458",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#JSs",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "caad1429bfa8977b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6c89eb34cc5510ee",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "28252843df8f2d28",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba5f4034255f5e3d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vestibulares/Biologia/Introdução a Biologia.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6d315cc4a3c16f15",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vestibulares/Biologia/Introdução a Biologia.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6222090ccd4a170c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Vestibulares/Biologia/Introdução a Biologia.md"
+          }
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "51db01f878c837f3",
+  "lastOpenFiles": [
+    "Vestibulares/Biologia/Método Científico.md",
+    "Vestibulares/Biologia/Introdução a Biologia.md",
+    "É foda.md",
+    "Eva!.md",
+    "CursoEmVideo/BancoDeDados/n01.md",
+    "CursoEmVideo/BancoDeDados/n02.md",
+    "CursoEmVideo/BancoDeDados/Tipos-Primitivos.canvas",
+    "Aprenda +/PSW.md",
+    "Aprenda +/Aprenda +.md",
+    "PYTHON/Operações Aritméticas.md",
+    "Projetos de jogos/Joken_codePY.md",
+    "Escola/Internet e Web/Internet e Programação Web.md",
+    "Filosofia.md",
+    "Escola/Internet e Web/JS portifólio/JS-Introduction.md",
+    "Escola/Internet e Web/JS portifólio/JS-Stataments.md",
+    "Escola/Internet e Web/JS portifólio/JS-Output.md",
+    "Escola/Internet e Web/JS portifólio/JS-Functions.md",
+    "Escola/Internet e Web/JS portifólio/JS-Data-Types.md",
+    "Escola/Internet e Web/JS portifólio/JS-Objects.md",
+    "Aprenda +/Sem título.md",
+    "Escola/Internet e Web/JS portifólio/README.md",
+    "Escola/Internet e Web/JS portifólio/JS-Events.md",
+    "Escola/Internet e Web/JS portifólio/_JS-Expandido.md",
+    "Escola/Internet e Web/JS portifólio/JS-Syntax.md",
+    "Escola/Internet e Web/JS portifólio/JS-Operadores.md",
+    "Escola/Internet e Web/JS portifólio/JS-Variables.md",
+    "Aprenda +",
+    "Escola/Química/Funções Oxigenadas.md",
+    "Escola/Sociologia/Jogo Movimento Social.canvas",
+    "889634.png",
+    "Escola/Sociologia/Jogo Movimento Social.sync-conflict-20231025-004440-ONYSPPP.canvas",
+    "Escola/Sociologia"
+  ]
+}
